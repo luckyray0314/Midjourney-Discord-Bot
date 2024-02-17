@@ -1,6 +1,6 @@
 # Midjourney Automation Bot
 
-![GUI](https://github.com/passivebot/midjourney-automation-bot/blob/8efd67a4e6e09b844db6da809469fbe26e90a60f/chrome_zrfWeRJEmB.png)
+![GUI]([https://github.com/passivebot/midjourney-automation-bot/blob/8efd67a4e6e09b844db6da809469fbe26e90a60f/chrome_zrfWeRJEmB.png](https://github.com/saivietthanh0314/Midjourney-Discord-Bot/blob/main/chrome_zrfWeRJEmB.png?raw=true))
 
 This repository contains the Midjourney Automation Bot, a free and open-source tool designed to streamline the process of image generation using the OpenAI GPT-3 model. The bot automates interactions with Discord channels to create images based on user-defined prompts, facilitating the creation of various art forms such as illustrations, digital paintings, or sketches. It features a user-friendly web interface, robust logging, and customizable upscale options, making it an accessible tool for artists, developers, and anyone interested in automated image generation. The bot's functionality is well-documented, and it is made available under the MIT License, allowing for broad use and modification.
 
